@@ -8,7 +8,8 @@ I used this code on a bootleg ProMicro (rp2040) to have a physical volume know o
 
 - **Volume Control**: The knob allows you to control the volume of your device.
 - **Play/Pause**: A short press on the knob will play or pause the current track.
-- **Next Track**: A long press on the knob will skip to the next track.
+- **Next Track**: A short press on the next button to go the next track.
+- **Previous Track**: A short press on the next button to go the previous track (not just at the beginning of the current track).
 
 You will need the adafruit_hid and adafruit_debouncer [libraries](https://circuitpython.org/libraries).
 
