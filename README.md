@@ -2,7 +2,9 @@
 
 This is a small project that uses CircuitPython to create a simple USB volume knob. The knob supports play/pause functionality on short presses, and I added 2 keys to skip to the previous/next track. This is my first project using [circuitpython](https://circuitpython.org/) and I absolutely loved it.
 
-I used this code on a bootleg ProMicro (rp2040) to have a "proper" physical volume knob and media buttons on my desk, enclosed in an old tin can I found at a thrift shop. (Player's Navy Mixture, apparently some sort of tobacco brand. It's a very sturdy box).
+I used this code on a bootleg ProMicro (rp2040) to have a "proper" physical volume knob and media buttons on my desk, enclosed in an old tin box I found at a thrift shop.
+
+![Photo of the usb device](photo.jpg)
 
 ## Implementation details
 
